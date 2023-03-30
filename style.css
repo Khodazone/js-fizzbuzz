@@ -3,3 +3,62 @@
     margin: 0;
     padding: 0;
 }
+
+.my-container {
+    margin: auto;
+    width: 80%;
+}
+
+.my-container {
+    margin: auto;
+    width: 80%;
+}
+
+.square-fizz-buzz {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    margin: 10px;
+    background-color: red;
+}
+
+.square-fizz {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    margin: 10px;
+    background-color: yellow;
+}
+
+.square-buzz {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    margin: 10px;
+    background-color: orange;
+}
+
+.square-normal {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    margin: 10px;
+    background-color: blueviolet;
+}
+
+.flex {
+    display: flex;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
